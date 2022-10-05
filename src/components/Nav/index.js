@@ -5,7 +5,7 @@ function Nav() {
         <header>
               <h2>
     <a href="/">
-      <span role="img" aria-label="camera"> 📸</span> Oh Snap!
+      <span role="img" aria-label="hype"> 😤</span> Matty P!
     </a>
   </h2>
   <nav>
