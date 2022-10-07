@@ -24,8 +24,7 @@ function Nav() {
         <span>Portfolio</span>
       </li>
       <li className="mx-2">
-        <a href="#resume"></a>
-        <span>Resume</span>
+      <a href ="https://docs.google.com/document/d/1pKvIJPIs8aSIZeBWmVjn1MwToAjzk_iU/edit?usp=sharing&ouid=106472186831044685502&rtpof=true&sd=true"> Resume </a>
       </li>
     </ul>
   </nav>
