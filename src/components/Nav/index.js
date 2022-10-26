@@ -16,12 +16,11 @@ function Nav() {
         </a>
       </li>
       <li className="mx-2">
-        <a href="#contact"></a>
-        <span>Contact</span>
+        <a href="#contact">Contact</a>
+        
       </li>
       <li className="mx-2">
-        <a href="#portfolio"></a>
-        <span>Portfolio</span>
+        <a href="#portfolio">Portfolio</a>
       </li>
       <li className="mx-2">
       <a href ="https://docs.google.com/document/d/1pKvIJPIs8aSIZeBWmVjn1MwToAjzk_iU/edit?usp=sharing&ouid=106472186831044685502&rtpof=true&sd=true"> Resume </a>
