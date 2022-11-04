@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.ea590dcd.css",
+    "main.js": "/reactportfolio/static/js/main.eedcab04.js",
+    "static/js/787.a2cb61a6.chunk.js": "/reactportfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/smorgasbord.png": "/reactportfolio/static/media/smorgasbord.4c4dd8f226de62afc9ef.png",
+    "static/media/employeetrack.png": "/reactportfolio/static/media/employeetrack.7899a15df646ef889249.png",
+    "static/media/card.png": "/reactportfolio/static/media/card.dde3dc340e1d7298b2ff.png",
+    "static/media/weather.png": "/reactportfolio/static/media/weather.5ff9e1bf34fce152296e.png",
+    "static/media/password.png": "/reactportfolio/static/media/password.b3e690401b7e5ddb22d2.png",
+    "static/media/pic.jpg": "/reactportfolio/static/media/pic.47ff728644fb02386f16.jpg",
+    "static/media/workschedule.png": "/reactportfolio/static/media/workschedule.77a988d7be45550fa6be.png",
+    "index.html": "/reactportfolio/index.html",
+    "main.ea590dcd.css.map": "/reactportfolio/static/css/main.ea590dcd.css.map",
+    "main.eedcab04.js.map": "/reactportfolio/static/js/main.eedcab04.js.map",
+    "787.a2cb61a6.chunk.js.map": "/reactportfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea590dcd.css",
+    "static/js/main.eedcab04.js"
+  ]
+}
